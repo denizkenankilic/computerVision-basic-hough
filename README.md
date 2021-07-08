@@ -1,2 +1,2 @@
 # computerVision-basic-hough
-Hough Transform
+Hough Transform of an Image
